@@ -7,6 +7,8 @@
 
 [Презентация в md файле](future.md) - Описание продукта.
 
+[Презентация PowerPoint](presentation.pptx)
+
 
 Состав команды: 
  - @TosterHolokoster
