@@ -1,0 +1,6 @@
+[submodule "TenderHack_dataparse"]
+	path = TenderHack_dataparse
+	url = https://github.com/RubanZ/TenderHack_dataparse
+[submodule "tenderHack"]
+	path = tenderHack
+	url = https://github.com/RavishMan/tenderHack
